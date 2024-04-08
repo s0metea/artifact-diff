@@ -1,1 +1,1 @@
-Usage: ``Comparer <dir1> <dir2> <resultsDir>``
+Usage: ``Main <dir1> <dir2> <resultsDir>``
